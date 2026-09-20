@@ -1,0 +1,13 @@
+shipment_id,carrier,origin,destination,promised_date,delivered_date,shipping_cost,delay_reason
+S001,BlueDart,Lucknow,Delhi,2026-09-02,2026-09-02,420,
+S002,Delhivery,Lucknow,Mumbai,2026-09-03,2026-09-05,610,Hub congestion
+S003,Ecom Express,Kanpur,Delhi,2026-09-03,2026-09-03,390,
+S004,BlueDart,Lucknow,Jaipur,2026-09-04,2026-09-04,460,
+S005,Delhivery,Kanpur,Mumbai,2026-09-05,2026-09-08,650,Vehicle breakdown
+S006,Ecom Express,Lucknow,Delhi,2026-09-06,2026-09-07,400,Weather
+S007,BlueDart,Kanpur,Jaipur,2026-09-07,2026-09-07,440,
+S008,Delhivery,Lucknow,Delhi,2026-09-08,2026-09-08,410,
+S009,Ecom Express,Kanpur,Mumbai,2026-09-09,2026-09-11,630,Hub congestion
+S010,BlueDart,Lucknow,Mumbai,2026-09-10,2026-09-10,600,
+S011,Delhivery,Kanpur,Delhi,2026-09-11,2026-09-12,405,Address issue
+S012,Ecom Express,Lucknow,Jaipur,2026-09-12,2026-09-12,455,
